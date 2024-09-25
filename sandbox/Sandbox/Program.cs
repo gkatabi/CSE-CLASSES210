@@ -1,18 +1,18 @@
 using System;
 
-public class jobResume
+public class jobTittle
 {
     public string_jobName = " "
     public string_jobResponsibility = " "
     public int_startYear = "";
     public int_endYear = "";
     
-        public job( )
+        public jobTittle( )
         {
         }
-        public void ShowJobName()
+        public void ShowJobTittle()
         {
-            Console.WriteLine($"{_jobName}";
+            Console.WriteLine($"{_jobTittle}";
 Console.WriteLine($"as a{"_jobResponsibility}";
 
 
