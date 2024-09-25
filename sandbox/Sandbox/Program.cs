@@ -13,7 +13,8 @@ public class jobTittle
         public void ShowJobTittle()
         {
             Console.WriteLine($"{_jobTittle}";
-Console.WriteLine($"as a{"_jobResponsibility}";
+            Console.WriteLine($"as a{"_jobResponsibility}";
+            Console. WriteLine($"{_startYear},'',{_endYear}";
 
 
         }
