@@ -1,10 +1,11 @@
 using System;
 
-public class job
+public class jobResume
 {
-    public string_name = " "
-    public string_jobTittle = " "
-    public List<Responsibility>_job
+    public string_jobName = " "
+    public string_jobResponsibility = " "
+    public int_startYear = ""
+    public int_endYear = ""
     {
         Console.WriteLine("Hello Sandbox World!");
 
