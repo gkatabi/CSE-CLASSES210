@@ -1,9 +1,12 @@
 using System;
 
-class Program
+public class job
 {
-    static void Main(string[] args)
+    public string_name = " "
+    public string_jobTittle = " "
+    public List<Responsibility>_job
     {
         Console.WriteLine("Hello Sandbox World!");
+
     }
 }
