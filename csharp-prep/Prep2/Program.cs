@@ -21,9 +21,9 @@ namespace HelloWorld
             else if (Score >= 80)
                     Console.WriteLine("You have passed: B");
             else if (Score >= 70)
-                    Console.WriteLine("You passed with:C");
+                Console.WriteLine("You passed with:C");
             else if (Score < 60)
-                    Console.WriteLine("You passed with: D");
+                Console.WriteLine("You passed with: D");
             }
             else
             {
