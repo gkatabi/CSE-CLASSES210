@@ -15,6 +15,9 @@ class Program
      //Begin derived classes here
      //involve colons since they are derived
     class person:video
+    { 
+        public derived video....
+    }
 
         
         static void Main(string[] args)
