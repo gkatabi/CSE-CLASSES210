@@ -22,11 +22,11 @@ class Program
         }
        
     }
-
-        
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello Foundation1 World!");
-        }
+class program
+{
+    static void Main(string[] args)
+    {
+         
+    }
     }
 }
