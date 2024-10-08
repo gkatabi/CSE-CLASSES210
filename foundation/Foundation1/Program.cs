@@ -16,7 +16,11 @@ class Program
      //involve colons since they are derived
     class person:video
     { 
-        public derived video....
+        public derived void video....();
+        {
+            Console.WriteLine("what a movies");
+        }
+       
     }
 
         
