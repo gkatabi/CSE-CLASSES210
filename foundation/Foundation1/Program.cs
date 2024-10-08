@@ -16,9 +16,9 @@ class Program
 }
      //Begin derived classes here
      //involve colons since they are derived
-    class person:video
+    class viewer:video
     { 
-        public derived void video....();
+        public viewer void video....();
         {
             Console.WriteLine("what a movies");
         }
