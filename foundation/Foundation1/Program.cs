@@ -21,7 +21,7 @@ class Program
         public viewer void video....();
         {
             private string _viewName;
-            private string _country;
+            private string _viewerCountry;
             Console.WriteLine("what a movies");
         }
        
