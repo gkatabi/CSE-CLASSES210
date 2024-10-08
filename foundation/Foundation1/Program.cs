@@ -10,6 +10,8 @@ class Program
         {
             public string _tittle;
             public string _author;
+            string comment = Console.Write("Live a comment: ");
+            Console.ReadLine();
             Console.WriteLine("Videos of that author sell ");
         }
     }
