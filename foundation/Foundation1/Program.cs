@@ -8,8 +8,8 @@ class Program
         //start function here
         public void firstVideo()
         {
-            private string _tittle;
-            private string _author;
+            public string _tittle;
+            public string _author;
             Console.WriteLine("Videos of that author sell ");
         }
     }
@@ -20,6 +20,8 @@ class Program
     { 
         public viewer void video....();
         {
+            private string _viewName;
+            private string _country;
             Console.WriteLine("what a movies");
         }
        
