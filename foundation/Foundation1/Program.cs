@@ -8,9 +8,9 @@ class Program
         //start function here
         public void firstVideo()
         {
-            private _tittle;
-            private _author;
-            Console.WriteLine("Video g");
+            private string _tittle;
+            private string _author;
+            Console.WriteLine("Videos of that author sell ");
         }
     }
 }
