@@ -22,7 +22,7 @@ class Program
     { 
         public viewer void video....();
         {
-            private string _viewName;
+            private string _viewerName;
             private string _viewerCountry;
             Console.WriteLine("what a movies");
         }
@@ -30,6 +30,16 @@ class Program
     }
 class program
 {
+    static void method()
+    #Feed my formulae here 
+    { 
+        Console.WriteLine("Hope it's true")
+    }
+    static void main ( string[args])
+    {
+        my method();
+    }
+    
     static void Main(string[] args)
     {
         //Now create new objects
