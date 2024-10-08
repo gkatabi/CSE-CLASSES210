@@ -35,9 +35,11 @@ class program
     { 
         Console.WriteLine("Hope it's true")
     }
-    static void main ( string[args])
+    static void main ( string[]args)
     {
         my method();
+        my method();
+        my method(); 
     }
     
     static void Main(string[] args)
