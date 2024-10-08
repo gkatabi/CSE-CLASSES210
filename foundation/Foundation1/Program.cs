@@ -10,12 +10,17 @@ class Program
         {
             public string _tittle;
             public string _author;
-            string comment = Console.Write("Live a comment: ");
-            Console.ReadLine();
-            Console.WriteLine("Videos of that author sell ");
+            string comment= Console.Write("Thanx for watching.Leave a comment: ");
+            coment = Console.ReadLine();
+        static void main (string[] args)
+        {
+            string [] coment = {coment}
+            Console.WriteLine(coment[1]\n[3]\n[4]);
         }
+            
     }
-}
+    
+
      //Begin derived classes here
      //involve colons since they are derived
     class viewer:video
