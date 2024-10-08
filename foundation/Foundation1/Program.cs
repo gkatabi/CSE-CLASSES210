@@ -6,8 +6,10 @@ class Program
     {
         public Abstract void video();
         //start function here
-        public void.....()
+        public void firstVideo()
         {
+            private _tittle;
+            private _author;
             Console.WriteLine("Video g");
         }
     }
