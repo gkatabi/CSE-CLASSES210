@@ -26,7 +26,11 @@ class program
 {
     static void Main(string[] args)
     {
+        //Now create new objects
+        ....my....  = new....();
+        my.....(dot)video...();
+        my....(dot)....();
+
          
-    }
     }
 }
